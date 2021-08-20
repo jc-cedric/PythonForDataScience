@@ -1,0 +1,25 @@
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 824894548 (787M), 298701453 (285M) remaining [application/octet-stream]
+Saving to: ‘/tmp/cats-and-dogs.zip’
+
+
+
+2021-06-09 17:04:55 (33,9 KB/s) - Read error at byte 542945879/824894548 (Connection reset by peer). Retrying.
+
+--2021-06-09 17:05:04--  (try:10)  https://download.microsoft.com/download/3/E/1/3E1C3F21-ECDB-4869-8368-6DEBA77B919F/kagglecatsanddogs_3367a.zip
+Connecting to download.microsoft.com (download.microsoft.com)|23.54.60.120|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 824894548 (787M), 281948669 (269M) remaining [application/octet-stream]
+Saving to: ‘/tmp/cats-and-dogs.zip’
+
+
+
+2021-06-09 17:15:11 (21,7 KB/s) - Read error at byte 556306519/824894548 (Connection reset by peer). Retrying.
+
+--2021-06-09 17:15:21--  (try:11)  https://download.microsoft.com/download/3/E/1/3E1C3F21-ECDB-4869-8368-6DEBA77B919F/kagglecatsanddogs_3367a.zip
+Connecting to download.microsoft.com (download.microsoft.com)|23.54.60.120|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 824894548 (787M), 268588029 (256M) remaining [application/octet-stream]
+Saving to: ‘/tmp/cats-and-dogs.zip’
+
+/tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,44M  19,9KB/s    eta 73m 4s /tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,45M  19,2KB/s    eta 73m 4s /tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,47M  18,9KB/s    eta 73m 4s /tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,47M  19,2KB/s    eta 73m 4s /tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,49M  18,9KB/s    eta 73m 4s /tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,50M  17,8KB/s    eta 73m 5s /tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,51M  17,6KB/s    eta 73m 5s /tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,53M  17,6KB/s    eta 73m 5s /tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,54M  17,1KB/s    eta 73m 5s /tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,55M  17,1KB/s    eta 73m 5s /tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,56M  16,4KB/s    eta 73m 6s /tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,58M  15,9KB/s    eta 73m 6s /tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,59M  15,5KB/s    eta 73m 6s /tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,60M  15,7KB/s    eta 73m 6s /tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,61M  15,7KB/s    eta 73m 6s /tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,62M  15,7KB/s    eta 73m 7s /tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,64M  15,5KB/s    eta 73m 7s /tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,65M  15,3KB/s    eta 73m 7s /tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,66M  15,7KB/s    eta 73m 7s /tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,68M  15,9KB/s    eta 73m 7s /tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,68M  16,2KB/s    eta 73m 8s /tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,70M  16,4KB/s    eta 73m 8s /tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,71M  16,6KB/s    eta 73m 7s /tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,72M  16,4KB/s    eta 73m 7s /tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,74M  16,8KB/s    eta 73m 7s /tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,75M  17,0KB/s    eta 73m 7s /tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,76M  17,3KB/s    eta 73m 7s /tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,78M  16,8KB/s    eta 73m 7s /tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,79M  16,6KB/s    eta 73m 8s /tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,80M  16,8KB/s    eta 73m 8s /tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,81M  16,8KB/s    eta 73m 9s /tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,82M  16,6KB/s    eta 73m 10s/tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,84M  16,8KB/s    eta 73m 10s/tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,85M  16,3KB/s    eta 73m 10s/tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,86M  15,7KB/s    eta 73m 10s/tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,87M  14,9KB/s    eta 73m 12s/tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,89M  13,4KB/s    eta 73m 15s/tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,90M  13,1KB/s    eta 73m 16s/tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,91M  13,0KB/s    eta 73m 16s/tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,92M  11,9KB/s    eta 73m 18s/tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,93M  11,8KB/s    eta 73m 19s/tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,95M  11,8KB/s    eta 73m 19s/tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,96M  11,5KB/s    eta 73m 19s/tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,97M  11,2KB/s    eta 73m 21s/tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 639,99M  11,1KB/s    eta 73m 21s/tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 640,00M  11,2KB/s    eta 73m 21s/tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 640,01M  10,7KB/s    eta 73m 22s/tmp/cats-and-dogs.  81%[+++++++++++++==>    ] 640,02M  10,2KB/s    eta 73m 23s
